@@ -15,14 +15,19 @@ Data modeling where dimensions tables are the outer ones and the main transactio
 
 1. Customer Retargeting
  <img width="959" alt="Screenshot 3" src="https://github.com/Subhashini098/PowerBI/assets/109629881/01eacd09-72c6-487b-b931-5f5acbb6b060">
+ 
 2. Product Insights
 <img width="960" alt="Screenshot 4" src="https://github.com/Subhashini098/PowerBI/assets/109629881/c7d95ce6-f3a1-480b-8b7b-7fa9ede9db54">
+
 3. Store Location
 <img width="959" alt="Screenshot 5" src="https://github.com/Subhashini098/PowerBI/assets/109629881/3a7d2ec7-491e-410c-a361-5c1bd37a17e1">
+
 4. Sales Team
 <img width="960" alt="Screenshot 6" src="https://github.com/Subhashini098/PowerBI/assets/109629881/1dbc99f0-451c-44dd-8fbb-5d86b549d954">
+
 5. Order/Transaction
 <img width="955" alt="Screenshot 7" src="https://github.com/Subhashini098/PowerBI/assets/109629881/9bd4a16f-c223-4cad-9b74-51ac6dc19da1">
+
 6. Time Range Analysis
 <img width="960" alt="Screenshot 8" src="https://github.com/Subhashini098/PowerBI/assets/109629881/10eea36c-a235-494d-9dea-d1447fc8eb72">
 
