@@ -6,7 +6,7 @@ This report gives insight into Regional Sales data that gives important KPIs suc
 The data is loaded, transformed(with power query editor), and visualized with the help of Power BI.
 
 This is the homepage.
-![alt text]("C:\Users\19523\OneDrive\Desktop\PL 300 Practice\Screenshot 1.png")
+![Screenshot 1]("C:\Users\19523\OneDrive\Desktop\PL 300 Practice\Screenshot 1.png")
 
 
 
